@@ -1,0 +1,8 @@
+{
+  "name": "Waiting for the Shuttle",
+  "description": "Intra-campus and last-mile transport prototype for checking sample shuttle routes, pickup points, waiting area crowd levels, onward journey options, and submitting demo feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
